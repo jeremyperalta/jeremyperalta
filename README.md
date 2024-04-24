@@ -18,7 +18,7 @@ as a tier 1 analyst.
 
 |skill
 |--------------------------------------------|
-|Assets Threats vulnerabilities              | <a href="https://docs.google.com/document/d/1A08hEle_d8L1NTRaJAzrO4sOJl0QbZfudk614_lHsyg/edit>Hash Values</a>|
+|Assets Threats vulnerabilities              |     <img src="creatinghases.jpg" alt="Hash values"|
 |Python
 |SIEM TOOL
 |IDS/IPS TOOL
