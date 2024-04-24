@@ -18,8 +18,9 @@ as a tier 1 analyst.
 
 |skill                                       |Associated Projct                  |
 |--------------------------------------------|------------------------------------|
-|Assets Threats vulnerabilities              | <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/creatinghashvalues">Hash value</a>|
-|Python                                      |                                           |
+|Assets Threats vulnerabilities              | <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/creatinghashvalues">Hash value</a>,
+                       <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/decryptAnEncryptedMessage">DecryptAnEncrpyedMessages</a>|
+|Python                                      |<a                                           |
 |SIEM TOOL
 |IDS/IPS TOOL
 |Firewalls
