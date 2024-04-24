@@ -1,6 +1,7 @@
-#Hello, I'm Jeremy
-<a href="https://linkedin.com"><img src="https://img src="https://img.shields.io/badge/-linkedIn-0072b1?&
-style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Hello, I'm Jeremy
+
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-232F3E?style=for-the-badge&logo=linkedin-aws&logoColor=white" />
+</a>
 
 [Brief Introduction]
 
@@ -12,11 +13,18 @@ I am a entry level computer information major with a profound interest in techno
 My journey in computer information had led me to develop a passion for cybersecurity, and i am now eager to transitiion into this feild, specifically aiming to join a security operation center (SOC)
 as a tier 1 analyst.
 
-##Skills
+## Skills
 [provide skills and associated projects. make sure to hyyperlink the project]
 
 |skill
-|
+|--------------------------------------------|
+|Assets Threats vulnerabilities              | <a href="https://   
+|Python
+|SIEM TOOL
+|IDS/IPS TOOL
+|Firewalls
+
+
 
 
 - 👋 Hi, I’m @jeremyperalta
