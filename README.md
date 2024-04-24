@@ -16,10 +16,10 @@ as a tier 1 analyst.
 ## Skills
 [provide skills and associated projects. make sure to hyyperlink the project]
 
-|skill
-|--------------------------------------------|
-|Assets Threats vulnerabilities              | <img src="creatinghashes.jpg" alt="Hash values"|>
-|Python
+|skill                                       |Associated Projct                  |
+|--------------------------------------------|------------------------------------|
+|Assets Threats vulnerabilities              | <img src="Creatinghashes.jpg" alt="Hash values">|
+|Python                                      |                                           |
 |SIEM TOOL
 |IDS/IPS TOOL
 |Firewalls
