@@ -5,7 +5,7 @@
 
 
 
-I am a entry level computer information major with a profound interest in technology and dedication to solving complex problems.
+I am a SOC anaylst with a profound interest in technology and dedication to solving complex problems.
 
 ## Objective
 
