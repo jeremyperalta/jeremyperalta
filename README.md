@@ -18,7 +18,7 @@ as a tier 1 analyst.
 
 |skill                                       |Associated Projct                  |
 |--------------------------------------------|------------------------------------|
-|Assets Threats vulnerabilities              | <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/creatinghashvalues">Hash value</a>, <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/decryptAnEncryptedMessage">DecryptAnEncrpyedMessages</a> <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/Create%20more%20functions">Create Function</a>|
+|Assets Threats vulnerabilities              | <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/creatinghashvalues">Hash value</a>, <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/decryptAnEncryptedMessage">DecryptAnEncrpyedMessages</a>, <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/Create%20more%20functions">Create Function</a>, <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/Define%20and%20call%20a%20function">Define and call a function</a>|
 |Python                                      |<a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/python%20Week%201%20conditional%20statement">Conditional Statement</a>, <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/python%20Week%201%20writting">Writting Python</a>, <a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/pythons%20WEEK1%20variables">Variables</a>,<a href="https://github.com/jeremyperalta/jeremyperalta/blob/main/pythons%20week1%20LOOPs">Loops</a> <a href="|
 |SIEM TOOL
 |IDS/IPS TOOL
